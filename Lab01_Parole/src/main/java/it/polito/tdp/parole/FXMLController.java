@@ -34,7 +34,8 @@ public class FXMLController {
 
     @FXML
     void doInsert(ActionEvent event) {
-    	// TODO
+    	String parola= btnInserisci.getText();
+    	
     }
 
     @FXML
